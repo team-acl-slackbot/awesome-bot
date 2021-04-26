@@ -14,3 +14,7 @@ A slack bot that can:
 ## user stories
 
 ## picture of wireframe?
+
+## Domain Modeling
+
+## Database Entity-Relationship-Diagram
