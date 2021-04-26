@@ -61,7 +61,6 @@ Feature Tasks:
 Acceptance Task: 
   - Ensure the response is sent to the right person
   - Uses the calling feature on Slack
-  - Provide error message if user target is offline?
 ```
 ```
 User #5: Need info about an npm package
@@ -77,9 +76,7 @@ Acceptance Task:
   - Only show the first 3 results
   - All 3 results are sent as a single message from the bot
 ```
-
-## picture of wireframe?
-
 ## Domain Modeling
+![Alt text](./docs/data-model.png "Optional title")
 
 ## Database Entity-Relationship-Diagram
