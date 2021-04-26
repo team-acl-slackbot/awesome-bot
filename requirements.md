@@ -47,6 +47,6 @@ Awesome-bot is a Slack Application designed to increase the productivity of both
 
 ## Data Flow
 
-When a user enters the correct trigger (`/slash`) command, a request is sent the correct app endpoint.  The request is verified.  The end point parses the data and sends the data to the correct function.  The Slack web-api is sent a POST request with the correct modals/views and the user sees the changes, either in a new modal opening, or a message sent back.  If further data is exchanged, it is done though Slack's interactive endpoint to the bot.
+When a user enters the correct trigger (`/slash`) command, a request is sent the correct app endpoint.  The request is verified.  The end point parses the data and sends the data to the correct function.  The Slack web-api is sent via POST request with the correct modals/views and the user sees the changes, either in a new modal opening, or a message sent back.  If further data is exchanged, it is done through Slack's interactive endpoint to the bot.
 
 
