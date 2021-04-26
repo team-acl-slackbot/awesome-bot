@@ -77,5 +77,6 @@ Acceptance Task:
   - All 3 results are sent as a single message from the bot
 ```
 ## Domain Modeling
-![Alt text](./data-model.png "Optional title")
+![Alt text](./docs/data-model.png "Optional title")
+
 ## Database Entity-Relationship-Diagram
