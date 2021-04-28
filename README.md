@@ -80,3 +80,6 @@ Acceptance Task:
 ![Alt text](./docs/data-model.png "Optional title")
 
 ## Database Entity-Relationship-Diagram
+
+## Slack Permissions and Dependancies
+
