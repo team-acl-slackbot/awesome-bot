@@ -7,5 +7,5 @@ CREATE TABLE meetings (
     topic TEXT NOT NULL,
     date_created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     meeting_date TIMESTAMP NOT NULL,
-    dm_channel TEXT NOT NULL
+    dm_permalink TEXT NOT NULL
 );
