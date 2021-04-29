@@ -11,7 +11,7 @@ A slack bot that can:
   - Colin Bassett
   - Parker Sequeira
   
-## user stories
+## User Stories
 ```
 User #1: Need Zoom Rooms
 User Story: As an Alchemy student, I want to have access to Alchemy's Zoom Rooms so that I can join them through Slack.
@@ -82,4 +82,3 @@ Acceptance Task:
 ## Database Entity-Relationship-Diagram
 
 ## Slack Permissions and Dependancies
-
