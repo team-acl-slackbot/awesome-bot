@@ -22,3 +22,4 @@ jobs:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
         ZOOM_API_KEY: ${{ secrets.ZOOM_API_KEY }}
         CANVAS_TOKEN: ${{ secrets.CANVAS_TOKEN }}
+        PGSSLMODE: ${{ secrets.PGSSLMODE }}
