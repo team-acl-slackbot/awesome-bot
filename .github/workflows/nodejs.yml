@@ -18,3 +18,7 @@ jobs:
       env:
         CI: true
         DATABASE_URL: postgres://alchemy:alchemy@postgres:5432/alchemy
+        SLACK_SIGNING_SECRET: ${{ secrets.SLACK_SIGNING_SECRET }}
+        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        ZOOM_API_KEY: ${{ secrets.ZOOM_API_KEY }}
+        CANVAS_TOKEN: ${{ secrets.CANVAS_TOKEN }}
