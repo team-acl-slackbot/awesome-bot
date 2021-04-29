@@ -11,7 +11,7 @@ describe('awesome-bot routes', () => {
   beforeEach(() => {
     return setup(pool);
   });
-  it('should convert the date to correct format',()=>{
+  it('should convert the date to correct format', () => {
     expect(convertDueDate("2021-04-29T16:00:00Z")).toEqual("4/29/2021, 4:00:00 PM")
   })
   it('return the list of participants', ()=>{
